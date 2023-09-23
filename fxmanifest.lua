@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Mercy Collective'
+author 'Aikon'
 description 'TS Boilerplate'
 
 client_scripts {
