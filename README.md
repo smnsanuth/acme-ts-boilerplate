@@ -1,4 +1,4 @@
-# mercy-ts-boilerplate
+# acme-ts-boilerplate
 Typescript boilerplate for FiveM.
 
 ## Installation
